@@ -5,8 +5,8 @@ alias ~="cd ~" # `cd` is probably faster to type though
 alias -- -="cd -"
 
 # ssh!
-alias shh='ssh aurgasm@aurgasm.us'
-alias shhve='ssh paul@javascriptbattle.com'
+alias shh='ssh AlexMiller@linkstream.ca'
+alias shhE='ssh AlexMiller@emerald.linkstream.ca'
 
 # programs
 alias slt='open -a "Sublime Text 2"'
@@ -65,6 +65,8 @@ alias cleanup="find . -name '*.DS_Store' -type f -ls -delete"
 # Shortcuts
 alias d="cd ~/Documents/Dropbox"
 alias p="cd ~/Projects"
+alias t="cd ~/Traction"
+alias tp="cd ~/Traction/Client\ Projects"
 alias g="git"
 alias v="vim"
 alias m="mate ."
